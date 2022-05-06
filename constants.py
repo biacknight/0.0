@@ -22,11 +22,11 @@ from pygame.locals import *
 
 # Configuration of building shape block
 # Width of the shape block
-BWIDTH     = 20
+BWIDTH     = 16
 # Height of the shape block
-BHEIGHT    = 20
+BHEIGHT    = 16
 # Width of the line around the block
-MESH_WIDTH = 1
+MESH_WIDTH = 2
 
 # Configuration of the player board
 # Board line height
@@ -37,10 +37,10 @@ BOARD_UP_MARGIN  = 40
 BOARD_MARGIN     = 2
 
 # Color declarations in the RGB notation
-WHITE    = (255,255,255)
+WHITE    = (155,255,255)
 RED      = (255,0,0)
 GREEN    = (0,255,0)
-BLUE     = (0,0,255)
+BLUE     = (0,0,200)
 ORANGE   = (255,69,0)
 GOLD     = (255,125,0)
 PURPLE   = (128,0,128)
